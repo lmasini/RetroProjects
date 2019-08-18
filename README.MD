@@ -1,5 +1,5 @@
-My retro programming projects
------------------------------
+Retro programming projects from Miguel García
+---------------------------------------------
 
 For various targets, including CP/M, Z80, Amstrad PCW, Amstrad CPC, etc.
 
